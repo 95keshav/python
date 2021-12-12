@@ -46,7 +46,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{95keshav}}/simple_paint
+$ git clone https://github.com/95keshav/simple_paint
 
 # Access
 $ cd simple_paint
@@ -60,7 +60,7 @@ $ python simple_paint.py
 - To cut/copy shape click on cut button and the click on shape
 - To paste click on anywhere on screen it will shape previous copied or cutt will be pasted 
 
-Made with :heart: by <a href="https://github.com/{{95keshav}}" target="_blank">{{Keshav Sharma}}</a>
+Made with :heart: by <a href="https://github.com/95keshav" target="_blank">{{Keshav Sharma}}</a>
 
 &#xa0;
 
