@@ -1,12 +1,11 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Simple_paint" />
 
   &#xa0;
 
   <!-- <a href="https://simple_paint.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Simple paint application</h1>
+<h1 align="center">Simple Paint Application</h1>
 
 <!-- Status -->
 
@@ -25,11 +24,11 @@ This project is made in python using tkinter interface library. This project is 
 
 :heavy_check_mark: draw free hand line and traight line;\
 :heavy_check_mark: draw enclosed shopes like circle,square,rectange,polygon;\
-:heavy_check_mark: group/ungroup multiple shapes;
-:heavy_check_mark: select differnt colors;
-:heavy_check_mark: move shapes;
-:heavy_check_mark: cut/paste.copy shapes;
-:heavy_check_mark: save/load images;
+:heavy_check_mark: group/ungroup multiple shapes;\
+:heavy_check_mark: select differnt colors;\
+:heavy_check_mark: move shapes;\
+:heavy_check_mark: cut/paste.copy shapes;\
+:heavy_check_mark: save/load images;\
 
 
 ## :rocket: Technologies ##
